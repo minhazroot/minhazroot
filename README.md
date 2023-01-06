@@ -4,7 +4,7 @@
 
 I'm minhaz uddin, I am a CSE student , and I'm a web developer
 
-Skills: HTML / CSS/ Bootstrap/JS
+Skills: HTML / CSS/ Bootstrap/JS/SEO/UI
 
 - 🔭 I’m currently working on college project 
 - 🌱 I’m currently learning JavaScript 
