@@ -32,10 +32,21 @@ Programming Languages
 - 🤖 AI-Assisted Coding
 - 🧠 AI Mindset & Engineering
 
-  ## Social Links 
+## 🌐 Connect With Me
 
-  LinkedIn:- https://www.linkedin.com/in/minhaz-uddin-6391a8388/
-  Portfolio:- 
-
+<p align="left">
+  <a href="https://github.com/minhazroot">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/minhaz-uddin-6391a8388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mdminhaz.uddin.2001/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://minhazroot.github.io/MINHAZ_UDDIN_PORTFOLIO/#SERVICES">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 
